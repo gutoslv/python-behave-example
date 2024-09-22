@@ -1,6 +1,6 @@
-# Technical test for Disney QA Engineer role
+# Python + behave example
 
-This repository contains the code for the technical test for the QA Engineer role at Disney.
+This repository contains the code for an example using Behave and Python.
 The E2E tests are written using [Behave](https://behave.readthedocs.io/en/stable/) and run
 using [Selenium](https://www.selenium.dev/).
 The API tests are written using [Pytest](https://docs.pytest.org/en/stable/)
